@@ -1,0 +1,16 @@
+PODS:
+  - PodPokedex (0.1.0)
+
+DEPENDENCIES:
+  - PodPokedex (from `../`)
+
+EXTERNAL SOURCES:
+  PodPokedex:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodPokedex: 0fae8291022aebf583ab7723d8cf353c8bab9819
+
+PODFILE CHECKSUM: a2741aa80bae1b5ebfebefcfb13d0e0f5ba0e370
+
+COCOAPODS: 1.10.0

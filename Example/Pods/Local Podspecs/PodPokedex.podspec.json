@@ -1,0 +1,22 @@
+{
+  "name": "PodPokedex",
+  "version": "0.1.0",
+  "summary": "A short description of PodPokedex.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Darking75/PodPokedex",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Darking75": "torresxiaotorres@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Darking75/PodPokedex.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PodPokedex/Classes/**/*"
+}
