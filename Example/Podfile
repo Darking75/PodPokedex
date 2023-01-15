@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PodPokedex_Example' do
+  pod 'PodPokedex', :path => '../'
+
+  target 'PodPokedex_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
