@@ -150,9 +150,7 @@
 		559765FA748967BA60E3DE37A110E2B6 /* PodPokedex */ = {
 			isa = PBXGroup;
 			children = (
-				D660EAF42974C1580034F72C /* PokemonData.swift */,
-				D660EAF32974C1580034F72C /* PokemonManager.swift */,
-				D660EAF52974C1580034F72C /* PokemonModel.swift */,
+				D660EB0A2974CB4F0034F72C /* Source */,
 				122553762E7A631EF69606C69A886C6E /* Pod */,
 				675EDAF445DE73CFDE08F735DD0577DB /* Support Files */,
 			);
@@ -218,6 +216,16 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D660EB0A2974CB4F0034F72C /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				D660EAF42974C1580034F72C /* PokemonData.swift */,
+				D660EAF32974C1580034F72C /* PokemonManager.swift */,
+				D660EAF52974C1580034F72C /* PokemonModel.swift */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 		F1CBC655BC592D9F20940A536273286C /* Targets Support Files */ = {
